@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c21843e73af6bb4459f4d2d147155b73
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stanberry
+  fontNames:
+  - Stanberry
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c8a7f0d02e5619744aa427bbcdcee8f6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

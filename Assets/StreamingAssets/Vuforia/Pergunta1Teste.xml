@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="building" size="50.000000 33.099998" />
+    <ImageTarget name="10337231_albert-einstein-albert-einstein-transparent-png" size="50.000000 47.443180" />
+  </Tracking>
+</QCARConfig>

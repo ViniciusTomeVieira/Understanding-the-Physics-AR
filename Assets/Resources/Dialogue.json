@@ -1,0 +1,67 @@
+{
+    "dialogues":[
+        {
+            "rollingDicePlayer":[
+                "Tomara que a gente tire um 6",
+                "Vamos!",
+                "É agora que o 6 vem!",
+                "Tá saindo da jaula o 6"
+            ],
+            "beforeTakeCardPlayer":[
+                "Será que essa vai ser difícil?",
+                "Vamos lá, pegue uma carta!",
+                "Essa carta vai ser legal, estou sentindo...",
+                "Será que você está com sorte?"
+            ],
+            "luckOrUnluckPlayer":[
+                "Será que você está com sorte?",
+                "Agora o bicho vai pegar",
+                "Ai ai ai, o que será que vai vir?"
+            ],
+            "inQuestionPlayer":[
+                "Como eu amo a física",
+                "A física é mesmo impressionante",
+                "Essa parece ser difícil"
+            ],
+            "afterAnswerPlayerCorrect":[
+                "Boa! É isso ai!",
+                "Impressionante!"
+            ],
+            "afterAnswerPlayerWrong":[
+                "Que pena, você errou",
+                "Foi por pouco!"
+            ],
+            "rollingDiceNPC":[
+                "Vamos, me vê um 6",
+                "Agora vai",
+                "É agora que o 6 vem!",
+                "Tá saindo da jaula o 6"
+            ],
+            "beforeTakeCardNPC":[
+                "Será que essa vai ser difícil?",
+                "Tomara que venha uma fácil",
+                "Essa carta vai ser legal, estou sentindo...",
+                "Será que eu estou com sorte?"
+            ],
+            "luckOrUnluckNPC":[
+                "Será que eu estou com sorte?",
+                "Agora o bicho vai pegar",
+                "Ai ai ai, o que será que vai vir?"
+            ],
+            "inQuestionNPC":[
+                "Deixa eu pensar...",
+                "Será que é essa opção?",
+                "Essa está muito difícil"
+            ],
+            "afterAnswerNPCCorrect":[
+                "Aeeeeee",
+                "Ihuuuul",
+                "Eu sabia que era aquela!"
+            ],
+            "afterAnswerNPCWrong":[
+                "Ah não!",
+                "Como eu errei???"
+            ]
+        }              
+    ]
+}

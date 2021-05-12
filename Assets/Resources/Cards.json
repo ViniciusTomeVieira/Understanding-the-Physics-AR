@@ -1,0 +1,191 @@
+{
+    "cards":[
+        {
+            "mechanics":[
+                {
+                    "question":"Pergunta 01",
+                    "description":"Como é chamado a variação da quantidade de movimento de um objeto ou um conjunto de objetos?",
+                    "option1":"Pressão",
+                    "option2":"Força",
+                    "option3":"Impulso",
+                    "option4":"Nenhuma das alternativas",
+                    "answer":"Impulso",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 02",
+                    "description":"Impulso depende de quais fatores?",
+                    "option1":"Da força não aplicada e da gravidade",
+                    "option2":"Da força aplicada e do tempo de ação dessa força",
+                    "option3":"Da gravidade aplicada e do tempo de resposta dessa força",
+                    "option4":"Da força aplicada e da pressão atmosférica",
+                    "answer":"Da força aplicada e do tempo de ação dessa força",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 03",
+                    "description":"Em qual ponto da trajetória de um projeto lançado obliquamente tem somente velocidade horizontal?",
+                    "option1":"No ponto mais alto da trajetória",
+                    "option2":"Enquanto está descendo",
+                    "option3":"Enquanto está subindo",
+                    "option4":"No ponto mais baixo da trajetória",
+                    "answer":"No ponto mais alto da trajetória",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 16",
+                    "description":"O conceito de aceleração está ligado a qual outro princípio físico?",
+                    "option1":"Variação da velocidade",
+                    "option2":"Variação da altura",
+                    "option3":"Variação da distância",
+                    "option4":"Nenhuma das alternativas",
+                    "answer":"Variação da velocidade",
+                    "AR": false
+                },
+                {
+                    "question":"Pergunta 17",
+                    "description":"Em um lançamento oblíquo qual é o melhor ângulo de lançamento para alcançar a maior distância?",
+                    "option1":"25º",
+                    "option2":"63º",
+                    "option3":"90º",
+                    "option4":"45º",
+                    "answer":"45º",
+                    "AR": false
+                }
+            ]
+        },
+        {
+            "modernPhysics":[
+                {
+                    "question":"Pergunta 04",
+                    "description":"Quais são as 3 partículas básicas que compõem o átomo?",
+                    "option1":"Próton, Nêutron e Elétron",
+                    "option2":"Próton, Selênio e Elétron",
+                    "option3":"Próton, Nêutron e Eletrônico",
+                    "option4":"Platão, Nêutron e Elétron",
+                    "answer":"Próton, Nêutron e Elétron",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 05",
+                    "description":"Quais são as 3 radiações possíveis de serem emitidas pelo núcleo atômico?",
+                    "option1":"Radiações Alfa, Beta e Gama",
+                    "option2":"Radiações Alfa, Beta e Ômega",
+                    "option3":"Radiações Alfa, Delta e Gama",
+                    "option4":"Radiações Lambda, Delta e Gama",
+                    "answer":"Radiações Alfa, Beta e Gama",
+                    "AR": false
+                },
+                {
+                    "question":"Pergunta 12",
+                    "description":"Das radiações emitidas pelo núcleo atômico, qual é a menos ionizante?",
+                    "option1":"Radiação Alfa",
+                    "option2":"Radiação Beta",
+                    "option3":"Radiação Gama",
+                    "option4":"Todas são igualmente ionizantes",
+                    "answer":"Radiação Alfa",
+                    "AR": false
+                }
+            ]
+        },
+        {
+            "hydrostatic":[
+                {
+                    "question":"Pergunta 06",
+                    "description":"Quando você toma um refrigerante com um canudo, o liquido sobre pelo canudo quando você suga o líquido. Esse fato está relacionado com qual conceito físico?",
+                    "option1":"Gravidade",
+                    "option2":"Vácuo",
+                    "option3":"Força",
+                    "option4":"Diferença de pressão",
+                    "answer":"Diferença de pressão",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 07",
+                    "description":"O que acontece quando um corpo é mergulhado em um fluido e o empuxo que ele sofre for menor que a sua força peso?",
+                    "option1":"O objeto afunda",
+                    "option2":"O objeto flutua",
+                    "option3":"O objeto para na metade do fluido",
+                    "option4":"Nenhuma das alternativas",
+                    "answer":"O objeto afunda",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 08",
+                    "description":"O que acontece quando um corpo é mergulhado em um fluido e o empuxo que ele sofre for maior que a sua força peso?",
+                    "option1":"O objeto afunda",
+                    "option2":"O objeto explode",
+                    "option3":"O objeto sobe e flutua na superfície",
+                    "option4":"Nenhuma das alternativas",
+                    "answer":"O objeto sobe e flutua na superfície",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 09",
+                    "description":"Um ovo está no fundo de uma jarra com água pura. Aos poucos, adiciona-se pequenas quantidades de sal. Em um determinado momento o ovo sobe e flutua no líquido. Qual conceito físico está envolvido nessa situação?",
+                    "option1":"Força peso",
+                    "option2":"Salubridade",
+                    "option3":"Densidade",
+                    "option4":"Pressão",
+                    "answer":"Densidade",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 10",
+                    "description":"Os navios flutuam porque deslocam uma quantidade enorme de água. Esse deslocamento está relacionado a qual conceito físico?",
+                    "option1":"Gravidade",
+                    "option2":"Empuxo",
+                    "option3":"Leis de Newton",
+                    "option4":"Nenhuma das alternativas",
+                    "answer":"Empuxo",
+                    "AR": false
+                }
+                
+            ]
+        },
+        {
+            "thermodynamics":[
+                {
+                    "question":"Pergunta 11",
+                    "description":"Um cobertor de lã nos aquece ou evita a perda do nosso calor para o ambiente?",
+                    "option1":"Não ajuda em nada",
+                    "option2":"Nenhuma das alternativas",
+                    "option3":"Nos aquece",
+                    "option4":"Evita a perda de calor para o ambiente",
+                    "answer":"Evita a perda de calor para o ambiente",
+                    "AR": true
+                },
+                {
+                    "question":"Pergunta 13",
+                    "description":"Qual fenômeno físico é responsável por sentirmos mais frio quando saímos de uma piscina ou do mar do que quando se está dentro da água?",
+                    "option1":"Calor",
+                    "option2":"Ebulição da água",
+                    "option3":"Evaporação da água",
+                    "option4":"Vento gelado",
+                    "answer":"Evaporação da água",
+                    "AR": false
+                },
+                {
+                    "question":"Pergunta 14",
+                    "description":"Quais são os 3 tipos de processos de transferência de calor?",
+                    "option1":"Condução, Convecção e Aquecimento",
+                    "option2":"Condução, Convecção e Vaporização",
+                    "option3":"Condução, Solidificação e Radiação",
+                    "option4":"Condução, Convecção e Radiação",
+                    "answer":"Condução, Convecção e Radiação",
+                    "AR": false
+                },
+                {
+                    "question":"Pergunta 15",
+                    "description":"Apesar de o calor específico ser uma característica fundamental de qualquer substância, ele não é constante. Ele varia com qual parâmetro físico?",
+                    "option1":"Umidade",
+                    "option2":"Temperatura.",
+                    "option3":"Calor",
+                    "option4":"Clima",
+                    "answer":"Temperatura.",
+                    "AR": false
+                }
+            ]
+        }
+    ]
+}

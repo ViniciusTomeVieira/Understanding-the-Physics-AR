@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="eggExperiment" size="50.000000 30.468750" />
+    <ImageTarget name="pergunta09" size="50.000000 28.125000" />
+    <ImageTarget name="pergunta08" size="50.000000 50.000000" />
+    <ImageTarget name="pergunta07" size="50.000000 37.500000" />
+    <ImageTarget name="pergunt04" size="50.000000 33.307693" />
+    <ImageTarget name="pergunta03" size="50.000000 71.509438" />
+    <ImageTarget name="pergunta05" size="50.000000 33.359375" />
+    <ImageTarget name="building" size="50.000000 30.384615" />
+    <ImageTarget name="10337231_albert-einstein-albert-einstein-transparent-png" size="50.000000 33.307693" />
+  </Tracking>
+</QCARConfig>
